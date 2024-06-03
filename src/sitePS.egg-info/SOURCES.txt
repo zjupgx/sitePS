@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/sitePS/__init__.py
+src/sitePS/main.py
+src/sitePS/plot_msa.py
+src/sitePS/preprocess2csv.py
+src/sitePS/sites_add_PS.py
+src/sitePS.egg-info/PKG-INFO
+src/sitePS.egg-info/SOURCES.txt
+src/sitePS.egg-info/dependency_links.txt
+src/sitePS.egg-info/requires.txt
+src/sitePS.egg-info/top_level.txt
